@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sfs:home|Door43 (sfs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sfs|d43-sfs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sfs/archive/master.zip|d43-sfs.zip]]
+
+**Recent Changes**
+{{changes>ns = sfs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sfs|Ethnologue data]]
+
